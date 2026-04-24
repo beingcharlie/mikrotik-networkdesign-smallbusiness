@@ -1,6 +1,6 @@
 # SME Network Infrastructure Design (MikroTik)
 
-This project demonstrates a secure and scalable enterprise network design using MikroTik CHR with VLAN segmentation, DHCP management, and firewall security policies.
+This project demonstrates a secure and scalable enterprise network design using MikroTik with VLAN segmentation, DHCP management, and firewall security policies.
 
 ## Features
 - VLAN 10: Management
